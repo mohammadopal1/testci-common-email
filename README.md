@@ -21,4 +21,4 @@
 1. Navigate to the following path in the imported project:  
    **`commons-email-1.3.2-src/commons-email-1.3.2-src/src/test/java/EmailTest.java`**  
 2. Right-click on `EmailTest.java` → **Run As** → **JUnit Test**.
-Trigger CI
+Trigger CI - test run
